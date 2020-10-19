@@ -5,14 +5,14 @@ body {
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
-     color:#0C0F46;
+     color:#8D24C9;
 }
 
 a:link {
-     color: #000000;
+     color:#8D24C9;
 }
 a:visited {
-     color:#A9D7F2;
+     color:#8D24C9;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
